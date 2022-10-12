@@ -13,6 +13,9 @@
     justify-content: space-around;
     align-items: center;
 }
+h1 {
+    color: brown;
+}
 
 .nav-top {
     width: 50%;
@@ -25,7 +28,15 @@
     justify-content: space-between;
     height: 10vh;
     align-items: center;
+}
+.li-menu-top {
     color: blue;
+
+}
+
+.li-menu-top:hover {
+    color:red;
+
 }
 
 /* =================== feature/content_section ==================== */
