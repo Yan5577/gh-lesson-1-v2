@@ -8,10 +8,13 @@
 
 .section-top {
     height: 20vh;
-    background-color: red;
+    background-color:beige;
     display: flex;
     justify-content: space-around;
     align-items: center;
+}
+h1 {
+    color: brown;
 }
 
 .nav-top {
@@ -25,6 +28,15 @@
     justify-content: space-between;
     height: 10vh;
     align-items: center;
+}
+.li-menu-top {
+    color: blue;
+
+}
+
+.li-menu-top:hover {
+    color:red;
+
 }
 
 /* =================== feature/content_section ==================== */
